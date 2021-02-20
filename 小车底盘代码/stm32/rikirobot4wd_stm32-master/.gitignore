@@ -1,0 +1,12 @@
+*.a
+*.o
+*.bin
+*.hex
+*.log
+*.elf
+*.swp
+*.srec
+*.list
+*.d
+*.out
+tags
